@@ -1,5 +1,5 @@
 # quicksilver
-A man-in-the-middle tool styled after an NSA 'quantum insert' method of hacking a target.
+A man-in-the-middle tool styled after the NSA's "quantum insert" method of gaining access to a target device.
 Current (Version 1) Capabilities:
   Standard MITM tool capable of reading client packets and use of tools such as urlsnarf and driftnet
 Next update (Version 2) plans:
