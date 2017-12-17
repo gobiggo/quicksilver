@@ -13,3 +13,4 @@ Version 3 plans:
   -User-made modules?
 Assorted plans:
   -Awesome loading banner
+NOTE: Not all developed versions are necessarily on this repository.
